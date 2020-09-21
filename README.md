@@ -1,5 +1,7 @@
 ### Hello everyone, I'm Jasmit Baraiya  - [Jasmit Baraiya][website] 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jasmit-Baraiya&label=Views&color=blue&style=plastic" alt="Jasmit-Baraiya" /> </p>
+
 
 ## I am a Data Analyst!
 
