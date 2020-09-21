@@ -1,8 +1,7 @@
-### Hello everyone, I'm Jasmit Baraiya - [http://18soece11003.dx.am/] 👋
+### Hello everyone, I'm Jasmit Baraiya - [website] 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jasmit-Baraiya&label=Views&color=blue&style=plastic" alt="Jasmit-Baraiya" /> </p>
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://18soece11003.dx.am/)
 
 ## I'm an Android Developer
 
@@ -42,3 +41,5 @@
   <img align="left" alt="Jasmit Baraiya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jbaraiya&show_icons=true&hide_border=true" />
 
 </details>
+[website]: http://18soece11003.dx.am/
+
